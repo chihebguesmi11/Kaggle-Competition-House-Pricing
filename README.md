@@ -1,9 +1,6 @@
 # Kaggle-Competition-House-Pricing
 # House Prices Prediction
 
-![GitHub repo size](https://img.shields.io/github/repo-size/chihebguesmi11/house-prices-prediction)
-![GitHub last commit](https://img.shields.io/github/last-commit/chihebguesmi11/house-prices-prediction)
-
 This repository contains my solution for the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) competition. The project achieved a rank of **474 out of 4667** participants, placing it in the top 10% on the leaderboard.
 
 ## Project Overview
@@ -57,4 +54,3 @@ The code implements a comprehensive data preprocessing and modeling pipeline:
   - MAE: ~0.08 (log scale)
   - R²: ~0.90
 
-## Repository Structure
